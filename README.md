@@ -1,5 +1,5 @@
 # koa-server
-place install mongodb
+please install mongodb
 
 npm install
 
